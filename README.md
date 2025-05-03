@@ -25,9 +25,9 @@ Saya adalah seorang penjelajah dunia teknologi, khususnya di ranah Web3, DeFi, d
 ---
 
 ## Hubungi Saya
-- Twitter: [@usernamekamu](https://twitter.com/usernamekamu)
-- Discord: Jackal#XXXX *(ganti dengan tag kamu)*
-- Zealy: [zealy.io/@jackal-stack](https://zealy.io/@jackal-stack)
+- Twitter: [@JackalAgency](https://twitter.com/JackalAgency)
+- Discord: jackalagency
+- Zealy: [zealy.io/@jackal-stack](https://zealy.io/@jackal-stack) 
 
 ---
 
